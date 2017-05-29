@@ -3,7 +3,5 @@ node_modules/
 *.log
 .idea
 haters/
-public/dist/
-public/uploads/
 variables.env
 variables.env.now
